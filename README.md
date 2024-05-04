@@ -1,0 +1,2 @@
+# Collaborative-filtering-recommender-system---in-Pyspark-Databricks-
+Develop a collaborative filtering recommender system using the Steam dataset, which provides information about games purchased and played by users. The task involves preprocessing the data, creating a unique identifier for games, and building a collaborative 4 filtering model with MLlib's Alternating Least Squares (ALS) algorithm. 
